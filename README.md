@@ -8,6 +8,7 @@
 | [0152-maximum-product-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

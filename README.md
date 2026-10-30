@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -18,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Binary Search
@@ -50,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |

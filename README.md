@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harishar19/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Binary Search
@@ -33,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -88,4 +91,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

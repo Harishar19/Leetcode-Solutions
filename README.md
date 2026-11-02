@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [2404-most-frequent-even-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |

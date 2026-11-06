@@ -22,6 +22,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2404-most-frequent-even-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harishar19/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harishar19/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [2404-most-frequent-even-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harishar19/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |

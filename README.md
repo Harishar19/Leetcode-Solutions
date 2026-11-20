@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -92,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

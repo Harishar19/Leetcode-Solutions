@@ -62,6 +62,7 @@
 | [0001-two-sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [2404-most-frequent-even-element](https://github.com/Harishar19/Leetcode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |

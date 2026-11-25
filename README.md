@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harishar19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
